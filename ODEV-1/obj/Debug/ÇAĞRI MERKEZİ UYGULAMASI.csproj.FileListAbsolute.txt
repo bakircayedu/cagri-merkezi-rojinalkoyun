@@ -1,0 +1,11 @@
+C:\Users\Acer\Desktop\GuzellikMCV\ODEV-1\bin\Debug\ODEV-1.exe.config
+C:\Users\Acer\Desktop\GuzellikMCV\ODEV-1\bin\Debug\ODEV-1.exe
+C:\Users\Acer\Desktop\GuzellikMCV\ODEV-1\bin\Debug\ODEV-1.pdb
+C:\Users\Acer\Desktop\GuzellikMCV\ODEV-1\obj\Debug\ÇAĞRI MERKEZİ UYGULAMASI.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\GuzellikMCV\ODEV-1\obj\Debug\ÇAĞRI MERKEZİ UYGULAMASI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\GuzellikMCV\ODEV-1\obj\Debug\ODEV_1.Form1.resources
+C:\Users\Acer\Desktop\GuzellikMCV\ODEV-1\obj\Debug\ODEV_1.Properties.Resources.resources
+C:\Users\Acer\Desktop\GuzellikMCV\ODEV-1\obj\Debug\ÇAĞRI MERKEZİ UYGULAMASI.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\GuzellikMCV\ODEV-1\obj\Debug\ÇAĞRI MERKEZİ UYGULAMASI.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\GuzellikMCV\ODEV-1\obj\Debug\ODEV-1.exe
+C:\Users\Acer\Desktop\GuzellikMCV\ODEV-1\obj\Debug\ODEV-1.pdb
